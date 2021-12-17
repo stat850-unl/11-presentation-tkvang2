@@ -1,0 +1,14 @@
+---
+title: "Presentation"
+author: "TK VANG"
+date: "12/2/2021"
+output: html_document
+---
+
+  ```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+[Markdown git deck](https://stat850-unl.github.io/11-presentation-joseguilhermecpp/tks_presentation.pdf)
+[LaTeX git deck](https://stat850-unl.github.io/11-presentation-tkvang2/tks_presentation.html)
+[git CV](https://stat850-unl.github.io/11-presentation-tkvang2/blob/master/resume_vangtk.12.10.2021.pdf)
