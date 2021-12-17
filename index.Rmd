@@ -9,6 +9,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-[Markdown git deck](https://stat850-unl.github.io/11-presentation-joseguilhermecpp/tks_presentation.pdf)
+[Markdown git deck](file:///C:/Users/tkvan/Documents/11-presentation-tkvang2/tks_presentation.pdf)
 [LaTeX git deck](https://stat850-unl.github.io/11-presentation-tkvang2/tks_presentation.html)
 [git CV](https://stat850-unl.github.io/11-presentation-tkvang2/blob/master/resume_vangtk.12.10.2021.pdf)
